@@ -8,3 +8,5 @@ head,trunk,master this all are same which represent master
 abc 
 bcd
 fgh
+
+This is for stash testing
